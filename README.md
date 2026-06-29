@@ -77,7 +77,7 @@ Actualmente continúo profundizando mis conocimientos en desarrollo Backend medi
 📍 Chile
 
 💼 LinkedIn:
-www.linkedin.com/in/felipe-eduardo-paez-ibaceta
+https://www.linkedin.com/in/felipe-paez-ibaceta/
 
 📧 Email:
 xfelipepaezx@gmail.com
